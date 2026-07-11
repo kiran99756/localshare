@@ -35,7 +35,7 @@ Sharing a file between your laptop and your phone shouldn't require uploading it
 ## Quick start
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/local-share.git
+git clone https://github.com/kiran99756/Localshare.git
 cd local-share
 pip install -r requirements.txt
 python main.py
