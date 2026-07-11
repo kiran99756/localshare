@@ -4,16 +4,12 @@
 
 A self-hosted, LAN-only file-sharing web app: drag-and-drop uploads with a live progress bar, instant image/video preview, search, rename, a QR code + auto device discovery (mDNS), a shared-password login, and every file encrypted at rest. Runs anywhere Python runs, or as a single double-click `.exe` on Windows.
 
-<!-- Replace with a real screenshot or short GIF once you have one - this is the single
-     biggest thing that gets people to actually click into a repo. Record a 10-second
-     screen capture of: open on phone -> scan QR -> drag a photo in -> preview it. -->
-![screenshot](docs/screenshot.png)
+
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/built%20with-FastAPI-009688.svg)](https://fastapi.tiangolo.com/)
-[![Build Windows exe](https://github.com/YOUR_USERNAME/local-share/actions/workflows/build-exe.yml/badge.svg)](https://github.com/YOUR_USERNAME/local-share/actions/workflows/build-exe.yml)
-
+[![Build Windows exe]https://github.com/kiran99756/Localshare/releases/tag/v1.0.0
 ## Why
 
 Sharing a file between your laptop and your phone shouldn't require uploading it to a cloud you don't control, emailing it to yourself, or plugging in a cable. If both devices are on the same Wi-Fi, this spins up a tiny private webpage every device on that network can use — nothing leaves the LAN.
